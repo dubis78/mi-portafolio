@@ -94,6 +94,7 @@ span:active{
 .card-content{
 position: relative;
 top: -80px;
+margin-left: 50px;;
 }
 
 .icon-container i{
@@ -116,6 +117,7 @@ top: -80px;
     position: relative;
     height: 120px;
     top: -80px;
+    left: -10px;
     margin: 10px;
     border-radius: 10%;
 }
